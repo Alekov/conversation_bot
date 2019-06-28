@@ -1,0 +1,11 @@
+{
+  "name": "conversation_bot",
+  "author": "Kolva Alex",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "dialogflow": "0.10.1",
+    "node-telegram-bot-api": "0.30.0"
+  }
+}
